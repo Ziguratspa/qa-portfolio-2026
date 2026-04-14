@@ -17,7 +17,7 @@ Portfolio de pruebas para optar a mi primer rol como **QA Junior**. Incluye ejem
 
 ## Contacto
 - **Email**: orubior@gmail.com
-- **LinkedIn**: www.linkedin.com/in/oliver-adrian-rubio-rauld-093652288
+- **LinkedIn**: www.linkedin.com/in/iamoliverrr
 - **GitHub**: github.com/Ziguratspa
 
 
