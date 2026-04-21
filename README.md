@@ -1,11 +1,11 @@
-# QA Portfolio 2026
+# Automatización con Playwright
 
 ## Sobre este portfolio
 Portfolio de pruebas para optar a mi primer rol como **QA Junior**. Incluye ejemplos prácticos de automatización, pruebas de API y consultas SQL.
 
 ## Proyectos incluidos
 
-### Automatización con Playwright
+### E2E Headless
 - 3 casos de prueba en SauceDemo:
   - Login exitoso [Ver captura](./capturas/cap3.png)
   - Login fallido (validación de mensaje de error) [Ver captura](./capturas/cap4.png)
